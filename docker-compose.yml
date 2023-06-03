@@ -7,8 +7,8 @@ services:
     environment:
       - PUID=0
       - PGID=0
-      - TZ=Europe/London
-#      - PASSWORD=password #optional
+      - TZ=Asia/Shanghai
+#      - PASSWORD=hanxu1987 #optional
 #      - HASHED_PASSWORD= #optional
 #      - SUDO_PASSWORD=password #optional
 #      - SUDO_PASSWORD_HASH= #optional
